@@ -1,1 +1,1 @@
-# animated-rotary-phone
+# my advent of code 2024 solutions
