@@ -17,7 +17,7 @@ My solutions for Advent of Code, 2024
 | Day 11   | ⭐ | ⭐⭐  | java     |
 | Day 12   | ⭐ | ⭐⭐  | java     |
 | Day 13   | ⭐ | ⭐⭐  | java     |
-| Day 14   |   |     |          |
+| Day 14   | ⭐ | ⭐⭐  | java     |
 | Day 15   |   |     |          |
 | Day 16   |   |     |          |
 | Day 17   |   |     |          |
